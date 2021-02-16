@@ -1,0 +1,123 @@
+get, 008, 1048576, get-008-1048576.csv.zst, 2680.84 MiB/s, 2680.84 obj/s
+get, 008, 131072, get-008-131072.csv.zst, 369.33 MiB/s, 2954.61 obj/s
+get, 008, 16777216, get-008-16777216.csv.zst, 10130.43 MiB/s, 633.15 obj/s
+get, 008, 4194304, get-008-4194304.csv.zst, 6968.23 MiB/s, 1742.06 obj/s
+get, 008, 524288, get-008-524288.csv.zst, 1415.41 MiB/s, 2830.82 obj/s
+get, 008, 67108864, get-008-67108864.csv.zst, 9827.28 MiB/s, 153.55 obj/s
+get, 016, 1048576, get-016-1048576.csv.zst, 3708.11 MiB/s, 3708.11 obj/s
+get, 016, 131072, get-016-131072.csv.zst, 484.68 MiB/s, 3877.42 obj/s
+get, 016, 16777216, get-016-16777216.csv.zst, 15774.47 MiB/s, 985.90 obj/s
+get, 016, 4194304, get-016-4194304.csv.zst, 11733.78 MiB/s, 2933.44 obj/s
+get, 016, 524288, get-016-524288.csv.zst, 1905.71 MiB/s, 3811.42 obj/s
+get, 016, 67108864, get-016-67108864.csv.zst, 15178.28 MiB/s, 237.16 obj/s
+get, 024, 1048576, get-024-1048576.csv.zst, 3938.86 MiB/s, 3938.86 obj/s
+get, 024, 131072, get-024-131072.csv.zst, 506.83 MiB/s, 4054.63 obj/s
+get, 024, 16777216, get-024-16777216.csv.zst, 16901.93 MiB/s, 1056.37 obj/s
+get, 024, 4194304, get-024-4194304.csv.zst, 12827.28 MiB/s, 3206.82 obj/s
+get, 024, 524288, get-024-524288.csv.zst, 1996.48 MiB/s, 3992.95 obj/s
+get, 024, 67108864, get-024-67108864.csv.zst, 16035.39 MiB/s, 250.55 obj/s
+get, 048, 1048576, get-048-1048576.csv.zst, 4138.73 MiB/s, 4138.73 obj/s
+get, 048, 131072, get-048-131072.csv.zst, 526.54 MiB/s, 4212.36 obj/s
+get, 048, 16777216, get-048-16777216.csv.zst, 18395.90 MiB/s, 1149.74 obj/s
+get, 048, 4194304, get-048-4194304.csv.zst, 14377.98 MiB/s, 3594.49 obj/s
+get, 048, 524288, get-048-524288.csv.zst, 2094.03 MiB/s, 4188.06 obj/s
+get, 048, 67108864, get-048-67108864.csv.zst, 17115.56 MiB/s, 267.43 obj/s
+get, 064, 1048576, get-064-1048576.csv.zst, 4173.20 MiB/s, 4173.20 obj/s
+get, 064, 131072, get-064-131072.csv.zst, 529.31 MiB/s, 4234.50 obj/s
+get, 064, 16777216, get-064-16777216.csv.zst, 18798.00 MiB/s, 1174.87 obj/s
+get, 064, 4194304, get-064-4194304.csv.zst, 14773.46 MiB/s, 3693.36 obj/s
+get, 064, 524288, get-064-524288.csv.zst, 2116.13 MiB/s, 4232.26 obj/s
+get, 064, 67108864, get-064-67108864.csv.zst, 17566.99 MiB/s, 274.48 obj/s
+get, 096, 1048576, get-096-1048576.csv.zst, 4230.26 MiB/s, 4230.26 obj/s
+get, 096, 131072, get-096-131072.csv.zst, 525.17 MiB/s, 4201.33 obj/s
+get, 096, 16777216, get-096-16777216.csv.zst, 19999.68 MiB/s, 1249.98 obj/s
+get, 096, 4194304, get-096-4194304.csv.zst, 15323.78 MiB/s, 3830.94 obj/s
+get, 096, 524288, get-096-524288.csv.zst, 2132.35 MiB/s, 4264.70 obj/s
+get, 096, 67108864, get-096-67108864.csv.zst, 18053.53 MiB/s, 282.09 obj/s
+get, 128, 1048576, get-128-1048576.csv.zst, 4239.15 MiB/s, 4239.15 obj/s
+get, 128, 131072, get-128-131072.csv.zst, 517.51 MiB/s, 4140.08 obj/s
+get, 128, 16777216, get-128-16777216.csv.zst, 20742.18 MiB/s, 1296.39 obj/s
+get, 128, 4194304, get-128-4194304.csv.zst, Errors: 1
+get, 128, 524288, get-128-524288.csv.zst, 2132.95 MiB/s, 4265.91 obj/s
+get, 128, 67108864, get-128-67108864.csv.zst, 18495.58 MiB/s, 288.99 obj/s
+put, 008, 1048576, put-008-1048576.csv.zst, 101.12 MiB/s, 101.12 obj/s
+put, 008, 131072, put-008-131072.csv.zst, 13.84 MiB/s, 110.72 obj/s
+put, 008, 16777216, put-008-16777216.csv.zst, 1075.10 MiB/s, 67.19 obj/s
+put, 008, 4194304, put-008-4194304.csv.zst, 366.04 MiB/s, 91.51 obj/s
+put, 008, 524288, put-008-524288.csv.zst, 51.66 MiB/s, 103.32 obj/s
+put, 008, 67108864, put-008-67108864.csv.zst, 2065.43 MiB/s, 32.27 obj/s
+put, 016, 1048576, put-016-1048576.csv.zst, 119.62 MiB/s, 119.62 obj/s
+put, 016, 131072, put-016-131072.csv.zst, 18.91 MiB/s, 151.25 obj/s
+put, 016, 16777216, put-016-16777216.csv.zst, 1629.98 MiB/s, 101.87 obj/s
+put, 016, 4194304, put-016-4194304.csv.zst, 501.80 MiB/s, 125.45 obj/s
+put, 016, 524288, put-016-524288.csv.zst, 62.45 MiB/s, 124.91 obj/s
+put, 016, 67108864, put-016-67108864.csv.zst, 3162.72 MiB/s, 49.42 obj/s
+put, 024, 1048576, put-024-1048576.csv.zst, 153.75 MiB/s, 153.75 obj/s
+put, 024, 131072, put-024-131072.csv.zst, 22.24 MiB/s, 177.90 obj/s
+put, 024, 16777216, put-024-16777216.csv.zst, 1926.17 MiB/s, 120.39 obj/s
+put, 024, 4194304, put-024-4194304.csv.zst, 632.03 MiB/s, 158.01 obj/s
+put, 024, 524288, put-024-524288.csv.zst, 61.63 MiB/s, 123.26 obj/s
+put, 024, 67108864, put-024-67108864.csv.zst, 3497.74 MiB/s, 54.65 obj/s
+put, 048, 1048576, put-048-1048576.csv.zst, 159.10 MiB/s, 159.10 obj/s
+put, 048, 131072, put-048-131072.csv.zst, 27.22 MiB/s, 217.76 obj/s
+put, 048, 16777216, put-048-16777216.csv.zst, 2310.79 MiB/s, 144.42 obj/s
+put, 048, 4194304, put-048-4194304.csv.zst, 739.83 MiB/s, 184.96 obj/s
+put, 048, 524288, put-048-524288.csv.zst, 98.24 MiB/s, 196.49 obj/s
+put, 048, 67108864, put-048-67108864.csv.zst, 3472.91 MiB/s, 54.26 obj/s
+put, 064, 1048576, put-064-1048576.csv.zst, 214.54 MiB/s, 214.54 obj/s
+put, 064, 131072, put-064-131072.csv.zst, 28.39 MiB/s, 227.12 obj/s
+put, 064, 16777216, put-064-16777216.csv.zst, 2283.37 MiB/s, 142.71 obj/s
+put, 064, 4194304, put-064-4194304.csv.zst, 864.13 MiB/s, 216.03 obj/s
+put, 064, 524288, put-064-524288.csv.zst, 114.54 MiB/s, 229.09 obj/s
+put, 064, 67108864, put-064-67108864.csv.zst, put, 096, 1048576, put-096-1048576.csv.zst, 252.83 MiB/s, 252.83 obj/s
+put, 096, 131072, put-096-131072.csv.zst, 31.10 MiB/s, 248.83 obj/s
+put, 096, 16777216, put-096-16777216.csv.zst, 2295.72 MiB/s, 143.48 obj/s
+put, 096, 4194304, put-096-4194304.csv.zst, 986.35 MiB/s, 246.59 obj/s
+put, 096, 524288, put-096-524288.csv.zst, 123.83 MiB/s, 247.67 obj/s
+put, 096, 67108864, put-096-67108864.csv.zst, 3322.47 MiB/s, 51.91 obj/s
+put, 128, 1048576, put-128-1048576.csv.zst, 199.35 MiB/s, 199.35 obj/s
+put, 128, 131072, put-128-131072.csv.zst, 31.64 MiB/s, 253.11 obj/s
+put, 128, 16777216, put-128-16777216.csv.zst, 2323.95 MiB/s, 145.25 obj/s
+put, 128, 4194304, put-128-4194304.csv.zst, 1160.73 MiB/s, 290.18 obj/s
+put, 128, 524288, put-128-524288.csv.zst, 127.88 MiB/s, 255.76 obj/s
+put, 128, 67108864, put-128-67108864.csv.zst, delete, 008, 1048576, delete-008-1048576.csv.zst, 2140.14 obj/s
+delete, 008, 131072, delete-008-131072.csv.zst, 1434.38 obj/s
+delete, 008, 16777216, delete-008-16777216.csv.zst, 2305.67 obj/s
+delete, 008, 4194304, delete-008-4194304.csv.zst, 1864.93 obj/s
+delete, 008, 524288, delete-008-524288.csv.zst, 2208.89 obj/s
+delete, 008, 67108864, delete-008-67108864.csv.zst, 1940.66 obj/s
+delete, 016, 1048576, delete-016-1048576.csv.zst, 2542.00 obj/s
+delete, 016, 131072, delete-016-131072.csv.zst, 2727.47 obj/s
+delete, 016, 16777216, delete-016-16777216.csv.zst, 2899.53 obj/s
+delete, 016, 4194304, delete-016-4194304.csv.zst, 2405.24 obj/s
+delete, 016, 524288, delete-016-524288.csv.zst, 2594.32 obj/s
+delete, 016, 67108864, delete-016-67108864.csv.zst, 2593.39 obj/s
+delete, 024, 1048576, delete-024-1048576.csv.zst, 2598.91 obj/s
+delete, 024, 131072, delete-024-131072.csv.zst, 2863.32 obj/s
+delete, 024, 16777216, delete-024-16777216.csv.zst, 3004.43 obj/s
+delete, 024, 4194304, delete-024-4194304.csv.zst, 2634.19 obj/s
+delete, 024, 524288, delete-024-524288.csv.zst, 2554.38 obj/s
+delete, 024, 67108864, delete-024-67108864.csv.zst, 2745.77 obj/s
+delete, 048, 1048576, delete-048-1048576.csv.zst, 3327.84 obj/s
+delete, 048, 131072, delete-048-131072.csv.zst, 26.53 MiB/s, 212.24 obj/s
+delete, 048, 16777216, delete-048-16777216.csv.zst, 2234.32 MiB/s, 139.64 obj/s
+delete, 048, 4194304, delete-048-4194304.csv.zst, 3262.96 obj/s
+delete, 048, 524288, delete-048-524288.csv.zst, 3104.93 obj/s
+delete, 048, 67108864, delete-048-67108864.csv.zst, 1986.62 obj/s
+delete, 064, 1048576, delete-064-1048576.csv.zst, 225.92 MiB/s, 225.92 obj/s
+delete, 064, 131072, delete-064-131072.csv.zst, 28.00 MiB/s, 224.02 obj/s
+delete, 064, 16777216, delete-064-16777216.csv.zst, 2687.38 obj/s
+delete, 064, 4194304, delete-064-4194304.csv.zst, 826.26 MiB/s, 206.56 obj/s
+delete, 064, 524288, delete-064-524288.csv.zst, 86.27 MiB/s, 172.53 obj/s
+delete, 064, 67108864, delete-064-67108864.csv.zst, 1857.02 obj/s
+delete, 096, 1048576, delete-096-1048576.csv.zst, 248.07 MiB/s, 248.07 obj/s
+delete, 096, 131072, delete-096-131072.csv.zst, 2689.79 obj/s
+delete, 096, 16777216, delete-096-16777216.csv.zst, 2099.63 obj/s
+delete, 096, 4194304, delete-096-4194304.csv.zst, 880.37 MiB/s, 220.09 obj/s
+delete, 096, 524288, delete-096-524288.csv.zst, 124.72 MiB/s, 249.43 obj/s
+delete, 096, 67108864, delete-096-67108864.csv.zst, 2002.49 obj/s
+delete, 128, 1048576, delete-128-1048576.csv.zst, 246.96 MiB/s, 246.96 obj/s
+delete, 128, 131072, delete-128-131072.csv.zst, 29.44 MiB/s, 235.49 obj/s
+delete, 128, 16777216, delete-128-16777216.csv.zst, 1963.89 MiB/s, 122.74 obj/s
+delete, 128, 4194304, delete-128-4194304.csv.zst, 976.58 MiB/s, 244.15 obj/s
+delete, 128, 524288, delete-128-524288.csv.zst, 125.93 MiB/s, 251.86 obj/s

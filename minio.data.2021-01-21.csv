@@ -1,0 +1,15 @@
+get, 128, 4MiB, 7191.32 MiB/s, 1797.83 obj/s
+get, 16, 4MiB, 3584.20 MiB/s, 896.05 obj/s
+get, 24, 4MiB, 4430.71 MiB/s, 1107.68 obj/s
+get, 48, 4MiB, 5634.99 MiB/s, 1408.75 obj/s
+get, 8, 4MiB, 2210.64 MiB/s, 552.66 obj/s
+get, 96, 4MiB, 6124.90 MiB/s, 1531.23 obj/s
+put, 128, 4MiB, put, 16, 4MiB, 124.07 MiB/s, 31.02 obj/s
+put, 24, 4MiB, 143.15 MiB/s, 35.79 obj/s
+put, 48, 4MiB, 177.11 MiB/s, 44.28 obj/s
+put, 8, 4MiB, 84.43 MiB/s, 21.11 obj/s
+put, 96, 4MiB, 127.86 MiB/s, 31.96 obj/s
+delete, 16, 4MiB, 1275.84 obj/s
+delete, 24, 4MiB, Errors: 1
+delete, 48, 4MiB, 3353.82 obj/s
+delete, 8, 4MiB, 1206.21 obj/s
